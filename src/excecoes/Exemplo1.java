@@ -37,6 +37,7 @@ public class Exemplo1 {
 		}
 
 		public static void divide(int dividendo, int divisor) {
+			
 			System.out.println("Divisão = " + (dividendo / divisor));
 		}
 

@@ -21,6 +21,7 @@ public class Exemplo2 {
 			
 			if(idade < 18)
 				throw new ArithmeticException("A Pessoa não pode dirigir!!");
+			
 			else
 				System.out.println("A Pessoa pode dirigir!!");
 		
